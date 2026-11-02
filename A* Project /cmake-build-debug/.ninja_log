@@ -1,0 +1,20 @@
+# ninja log v5
+0	6	0	clean	ad90e366ad70d77b
+3	642	1764850906043278428	CMakeFiles/A__Project_.dir/Src/neighbours.cpp.o	801046bbb9649eec
+1266	1380	1764850906780286414	A__Project_	133b4681f339fafb
+3	1266	1764850906663195345	CMakeFiles/A__Project_.dir/main.cpp.o	7ecbdf9bf6ebda1d
+3	428	1764850949110565668	CMakeFiles/A__Project_.dir/Src/neighbours.cpp.o	801046bbb9649eec
+3	1046	1764850949723724746	CMakeFiles/A__Project_.dir/main.cpp.o	7ecbdf9bf6ebda1d
+1046	1084	1764850949767330662	A__Project_	133b4681f339fafb
+3	445	1764851155661395310	CMakeFiles/A__Project_.dir/Src/neighbours.cpp.o	801046bbb9649eec
+3	1074	1764851156288081191	CMakeFiles/A__Project_.dir/main.cpp.o	7ecbdf9bf6ebda1d
+1074	1113	1764851156330109939	A__Project_	133b4681f339fafb
+3	625	1764851378323922198	CMakeFiles/A__Project_.dir/Src/neighbours.cpp.o	801046bbb9649eec
+3	1225	1764851378922188802	CMakeFiles/A__Project_.dir/main.cpp.o	7ecbdf9bf6ebda1d
+1225	1346	1764851379044903210	A__Project_	133b4681f339fafb
+3	386	1764851395213353010	CMakeFiles/A__Project_.dir/Src/neighbours.cpp.o	801046bbb9649eec
+3	987	1764851395811510531	CMakeFiles/A__Project_.dir/main.cpp.o	7ecbdf9bf6ebda1d
+987	1024	1764851395852841570	A__Project_	133b4681f339fafb
+3	391	1764851524396040995	CMakeFiles/A__Project_.dir/Src/neighbours.cpp.o	801046bbb9649eec
+3	993	1764851524996909729	CMakeFiles/A__Project_.dir/main.cpp.o	7ecbdf9bf6ebda1d
+994	1031	1764851525038705385	A__Project_	133b4681f339fafb

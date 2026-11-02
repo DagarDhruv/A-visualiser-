@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A__Project_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A__Project_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A__Project_-Debug-a6381b7e5f16ae121cb9.json",
+					"name" : "A__Project_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dhruvdagar/Documents/c++/year2/ds25-DagarDhruv/A* Project /cmake-build-debug",
+		"source" : "/Users/dhruvdagar/Documents/c++/year2/ds25-DagarDhruv/A* Project "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
